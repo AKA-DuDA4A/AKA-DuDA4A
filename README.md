@@ -14,10 +14,10 @@
   <img src="https://www.gitskins.com/api/section/projects?username=aka-duda4a&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181859435%3Fv%3D4" alt="aka-duda4a projects visual" />
 </p>
 
-- [Clinica_vida-](https://github.com/AKA-DuDA4A/Clinica_vida-) · ★ 0
-- [Guardioes_da_Amazonia](https://github.com/AKA-DuDA4A/Guardioes_da_Amazonia) · ★ 0
+- [Clinica_vida-](https://github.com/AKA-DuDA4A/Clinica_vida-) · ★ 0 - ReactClass-01
+- [Guardioes_da_Amazonia](https://github.com/AKA-DuDA4A/Guardioes_da_Amazonia) · ★ 0 - ReactClass-02
 - [desafioTecnico](https://github.com/AKA-DuDA4A/desafioTecnico) · ★ 0
-- [mouseControl_mediapipe](https://github.com/AKA-DuDA4A/mouseControl_mediapipe) · ★ 0 — Controling the mouser pointer with endicator finger using mediapipe
+- [mouseControl_mediapipe](https://github.com/AKA-DuDA4A/mouseControl_mediapipe) · ★ 0 — Controling the mouser pointer with indicator finger using mediapipe
 - [frontClass-04-10](https://github.com/AKA-DuDA4A/frontClass-04-10) · ★ 0 — Aula de FrontEnd criando componetes em React
 - [aula25_05](https://github.com/AKA-DuDA4A/aula25_05) · ★ 0
 
