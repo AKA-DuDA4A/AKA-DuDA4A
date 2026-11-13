@@ -16,7 +16,7 @@
 
 - [Clinica_vida-](https://github.com/AKA-DuDA4A/Clinica_vida-) · ★ 0 - ReactClass-01
 - [Guardioes_da_Amazonia](https://github.com/AKA-DuDA4A/Guardioes_da_Amazonia) · ★ 0 - ReactClass-02
-- [desafioTecnico](https://github.com/AKA-DuDA4A/desafioTecnico) · ★ 0
+- [desafioTecnico](https://github.com/AKA-DuDA4A/desafioTecnico) · ★ 0 - React with some Dashboards
 - [mouseControl_mediapipe](https://github.com/AKA-DuDA4A/mouseControl_mediapipe) · ★ 0 — Controling the mouser pointer with indicator finger using mediapipe
 - [frontClass-04-10](https://github.com/AKA-DuDA4A/frontClass-04-10) · ★ 0 — Aula de FrontEnd criando componetes em React
 - [aula25_05](https://github.com/AKA-DuDA4A/aula25_05) · ★ 0
